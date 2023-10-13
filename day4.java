@@ -1,23 +1,12 @@
-
 package latihan;
-class maha {
-        String nama;
-        int umur;
-        String alamat;
-    }
 
-public class Latihan {
-    
-
+public class day4 {
     public static void main(String[] args) {
-        maha n = new maha();
-        n.nama ="amri";
-        n.umur = 21;
-        n.alamat = "pambusuang";
+        int angka1 = 10;
+        int angka2 = 50;
+        int hasil = angka1*angka2;
+        System.out.println("hasil dari program di atas adalah ="+hasil);
         
-        System.out.println("nama saya" +n.nama);
-        System.out.println("umur saya" +n.umur);
-        System.out.println("alamat saya" +n.alamat);
     }
     
 }
