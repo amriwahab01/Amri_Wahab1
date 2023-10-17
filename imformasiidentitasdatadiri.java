@@ -2,10 +2,10 @@ package latihan;
 
 public class imformasiidentitasdatadiri {
     public static void main(String[] args) {
-        String nama = "Irfandi";
+        String nama = "Amri Wahab";
         String nim = "D0221332";
         int umur = calculateUmurFromNIM(nim);
-        String kelas = "Informatika B 2023";
+        String kelas = "Informatika E 2023";
         double beratBadan = 55.0;
         double tinggiBadan = 1.78;
         double bmi = calculateBMI(beratBadan, tinggiBadan);
