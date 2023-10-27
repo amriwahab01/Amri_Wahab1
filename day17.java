@@ -1,12 +1,12 @@
 package latihan;
 
 class day17 {
-    n = 10
-
-for i in range(1, n+1, 2):
-    print(i)
-
-   
+    public static void main(String[] args) {
+        int n = 10;
+        for (int i = 1; i <= n; i += 2){
+        System.out.println(i);
     }
+    }
+}
     
 
