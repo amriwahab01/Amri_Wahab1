@@ -16,7 +16,7 @@ public class day42 {
             System.out.println("|");
         }
         
-        System.out.print("+---".repeat(nilai + 1));
+        System.out.print("+---".repeat(nilai));
         System.out.println("+");
     }
     
